@@ -7,3 +7,5 @@ Mitochondria connection is a block-wise 3D connection algorithm for mitochondria
 
 FusionNet is a fully convolutional network for segmentation of vesicle cloud and neuronal membrane.
 ## Inferences
+
+FusionNet:https://arxiv.org/abs/1711.07341
