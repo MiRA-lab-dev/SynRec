@@ -9,3 +9,5 @@ FusionNet is a fully convolutional network for segmentation of vesicle cloud and
 ## References
 
 FusionNet: https://arxiv.org/abs/1612.05360
+MaskRCNN: https://github.com/matterport/Mask_RCNN
+Multicut: https://github.com/ilastik/nature_methods_multicut_pipeline
