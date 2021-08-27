@@ -9,6 +9,7 @@ FusionNet is a fully convolutional network for segmentation of vesicle cloud and
 
 ## Datasets
 A sample dataset containing 178 sections is public at https://www.micro-visions.org/data/Synapse-ATUM/.
+An small example data can be found in https://www.dropbox.com/sh/tafj77ktwtuayor/AAArAkqnhirEDCAlgAGHvPP2a?dl=0
 
 ## References
 
